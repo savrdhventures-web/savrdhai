@@ -1,0 +1,6 @@
+{
+  "name": "SAVRDH Intelligence Workforce — Fluid UI Motion System",
+  "description": "Enterprise AI workforce command center with high-fidelity Framer Motion fluid physics, 3D tilt console, interactive workflow orchestrator, and motion architecture guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
